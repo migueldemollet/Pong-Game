@@ -28,7 +28,7 @@ This project is a recreation of the classic Pong game, built using **C#** in com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/migueldemollet/Pong
+   git clone https://github.com/migueldemollet/Pong-Game
    ```
 2. Install **Raylib**. You can follow the instructions from the official [Raylib website](https://www.raylib.com/) for setting up the library with **C#**.
 3. Compile and run the project:
